@@ -2,4 +2,4 @@
 // Enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; }
 // Imprimir(SOMA);
 // Ao final do processamento, qual será o valor da variável SOMA?
-// RESULTADO: 91
+RESULTADO: 91
